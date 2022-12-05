@@ -1,7 +1,6 @@
 # Müzük Dükkanı Sitesi
 ## 1-) Anasayfa
-![site1.JPG](https://github.com/kubrakoksal1/MuzikDukkani/blob/main/site1jpg.JPG)
-
+![site1.JPG](https://github.com/kubrakoksal1/MuzikDukkani/blob/main/site1.JPG)
 ## 2-) Ürünlerimiz
 ![site2.JPG](https://github.com/kubrakoksal1/MuzikDukkani/blob/main/site2.JPG)
 ## 3-) Hakkımızda
